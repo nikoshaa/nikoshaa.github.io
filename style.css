@@ -1,0 +1,144 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600;700&display=swap');
+
+body {
+    background-color: #2D2D39;
+    font-family: 'Inter', sans-serif;
+    color: #fff;
+}
+
+.header {
+    background-color: #353543;
+}
+
+.navbar .navbar-brand {
+    color: #218eaf;
+}
+
+.content {
+    margin-top: 40px;
+}
+
+.content p {
+    color: #dfdfdf;
+}
+
+.content .download-cv .btn {
+    background-color: #218eaf;
+    color: #fff;
+    padding: 10px;
+}
+
+
+.content .download-cv .btn:hover {
+    background-color: #56c6e9;
+    transition-duration: 0.3s;
+}
+
+.about {
+    margin-top: 80px;
+}
+
+.sosmed .icon,
+.contact .icon {
+    border-radius: 50%;
+    padding: 12px;
+    border: 1px solid #218eaf;
+}
+
+.sosmed .icon:hover,
+.contact .icon:hover {
+    background-color: #218eaf;
+    border-radius: 50%;
+    padding: 12px;
+    transition-duration: 0.3s;
+}
+
+.project {
+    font-family: 'Inter', sans-serif;
+    margin-bottom: 50px;
+}
+
+.project h3 {
+    padding-top: 50px;
+    margin-bottom: 30px;
+    font-weight: bold;
+}
+
+.project hr {
+    margin-top: -20px !important;
+    width: 6%;
+    border: none;
+    height: 5px;
+    border-radius: 10px;
+    color: #218eaf;
+    margin: auto;
+    opacity: 1;
+}
+
+.content1 {
+    background-color: #353543;
+    padding: 0;
+    margin: 10px;
+    max-width: 400px;
+
+}
+
+.content1 a img:hover {
+    filter: brightness(0.7);
+    transition-duration: 0.3s;
+}
+
+.project .title-project {
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.project .title-project a {
+    text-align: right;
+    text-decoration: none;
+    color: #218eaf;
+    float: right;
+}
+
+.project .title-project a:hover {
+    text-align: right;
+    text-decoration: none;
+    color: #56c6e9;
+    float: right;
+    transition-duration: 0.3s;
+}
+
+.contact-info {
+    background-color: #353543;
+}
+
+.contact {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-top: 100px;
+}
+
+.contact span {
+    color: #218eaf;
+}
+
+.footer {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.footer span {
+    color: #218eaf;
+}
+
+@media screen and (max-width: 992px) {
+    .about h4 {
+        margin-top: -20px;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .about {
+        margin-top: -10px;
+    }
+}
