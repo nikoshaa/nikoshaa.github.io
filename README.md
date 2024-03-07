@@ -1,11 +1,27 @@
-# STATIC
+![ss](ss.png)
 
-**This directory is not required, you can delete it if you don't want to use it.**
+new [nikoshaa](https://nikoshaa.github.io/) website built with Nuxt.js, React Three Fibre, and Tailwind with Twin Macro
 
-This directory contains your static files.
-Each file inside this directory is mapped to `/`.
-Thus you'd want to delete this README.md before deploying to production.
+Quick start
 
-Example: `/static/robots.txt` is mapped as `/robots.txt`.
+Navigate into your new site’s directory and start it up.
 
-More information about the usage of this directory in [the documentation](https://nuxtjs.org/guide/assets#static).
+```bash
+# install dependencies
+$ yarn install
+```
+```bash
+# serve with hot reload at localhost:3000
+$ yarn dev
+```
+```bash
+# build for production and launch server
+$ yarn build
+$ yarn start
+```
+```bash
+# generate static project
+$ yarn generate
+```
+
+For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
