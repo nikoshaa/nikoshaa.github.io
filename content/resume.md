@@ -19,6 +19,11 @@ A User Interface Designer with more than two years of experience. I started my c
 ### Work Experience
 
 #### Software Engineer, [Rumah Sakit Pusat Pertamina](https://rspp.co.id/)
+Jun 202 5- Now | Jakarta, Indonesia
+<br><br>
+As a full-time Software Engineer at Rumah Sakit Pusat Pertamina, I have been involved in software development projects since June 2025. My responsibilities include expanding the features of the current system and contributing ideas to ongoing projects. I work with technologies such as Laravel and Oracle, and I utilize tools like Toad to ensure efficient and effective development.
+
+#### Software Engineer, [Rumah Sakit Pusat Pertamina](https://rspp.co.id/)
 Feb 2024 - Feb 2025 | Jakarta, Indonesia
 <br><br>
 As a part-time Software Engineer at Rumah Sakit Pusat Pertamina, I have been involved in software development projects since February 2024. My responsibilities include expanding the features of the current system and contributing ideas to projects. I work with technologies such as Laravel and Oracle, and I utilize tools like Toad to ensure efficient and effective development.
