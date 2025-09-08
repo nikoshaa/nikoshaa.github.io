@@ -23,12 +23,12 @@ Jun 2025 - Now | Jakarta, Indonesia
 <br><br>
 As a full-time Software Engineer at Rumah Sakit Pusat Pertamina, I have been involved in software development projects since June 2025. My responsibilities include expanding the features of the current system and contributing ideas to ongoing projects. I work with technologies such as Laravel and Oracle, and I utilize tools like Toad to ensure efficient and effective development.
 
-#### Software Engineer, [Rumah Sakit Pusat Pertamina](https://rspp.co.id/)
+#### Software Engineer Intern, [Rumah Sakit Pusat Pertamina](https://rspp.co.id/)
 Feb 2024 - Feb 2025 | Jakarta, Indonesia
 <br><br>
 As a part-time Software Engineer at Rumah Sakit Pusat Pertamina, I have been involved in software development projects since February 2024. My responsibilities include expanding the features of the current system and contributing ideas to projects. I work with technologies such as Laravel and Oracle, and I utilize tools like Toad to ensure efficient and effective development.
 
-#### Software Engineer, [PT Lintang Utama Infotek](https://lui.co.id/)
+#### Software Engineer Intern, [PT Lintang Utama Infotek](https://lui.co.id/)
 Feb 2024 - Feb 2025 | Jakarta, Indonesia
 <br><br>
 As a Software Engineer Intern at Lintang Utama Infotek, I design, develop, and test software applications using Python and Odoo. I troubleshoot and debug software issues, utilizing PostgreSQL for effective solutions. This role has expanded my understanding of software development practices and allowed me to contribute to ongoing company projects.
