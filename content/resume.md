@@ -56,7 +56,7 @@ As a Software Engineer Intern, I had the opportunity to work on various software
 2021 - 2025
 
 * Studied Informatics Engineering
-* GPA: 3.90 out of 4.00
+* GPA: 3.91 out of 4.00
 * Members of Workshop Riset Informatika
 
 ### Awards and Achievements
