@@ -19,7 +19,7 @@ In order to identify the user flows through the app and areas where the navigati
 
 ## Low-Fidelity Wireframe
 
-![Fitz Low-Fidelity Wireframe](https://ik.imagekit.io/wdujykr9f/low-fidelity.png?updatedAt=1697289540679)
+![Fitz Low-Fidelity Wireframe](https://ik.imagekit.io/wdujykr9f/low-fidelity.png?updatedAt=1697289540679)<br>
 
 Creating low-fidelity wireframes in UI/UX Design is an essential step involving visualizing digital applications’ skeleton. UX Wireframe provides a blueprint of the page structure, layout, information, and functions. The result of the discussion in Crazy 8s led me to create UX Wireframe to keep the concept user-focused.
 

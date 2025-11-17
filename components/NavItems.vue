@@ -9,6 +9,9 @@
     <nuxt-link to="/resume" active-class="active" class="link">
       Resume
     </nuxt-link>
+    <nuxt-link to="/articles" active-class="active" class="link">
+      Articles
+    </nuxt-link>
   </div>
 </template>
 

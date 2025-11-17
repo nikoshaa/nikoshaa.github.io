@@ -25,13 +25,13 @@ We identified critical issues with Juragan's previous homepage, including low en
 
 ## Information Architecture Homepage
 
-![JuraganMaterial architecture](https://ik.imagekit.io/wdujykr9f/hierarcy.png?updatedAt=1697214973942)
+![JuraganMaterial architecture](https://ik.imagekit.io/wdujykr9f/hierarcy.png?updatedAt=1697214973942)<br>
 
 We revamped Juragan Material's homepage by restructuring its information architecture for a more streamlined user experience and optimized white space. The new design combines "Register as Business" and "Register as Vendor" into one section.
 
 ## Content Colors of Juragan Material
 
-![JuraganMaterial content colors](https://ik.imagekit.io/wdujykr9f/w=1920,quality=80.png?updatedAt=1697215548266)
+![JuraganMaterial content colors](https://ik.imagekit.io/wdujykr9f/w=1920,quality=80.png?updatedAt=1697215548266)<br>
 
 In the context of Juragan Material's homepage redesign, typography plays a crucial role in conveying a sense of professionalism and clarity to the user experience. While the logo font is Poppins, the decision to use the Inter font for the website's content was deliberate.
 
