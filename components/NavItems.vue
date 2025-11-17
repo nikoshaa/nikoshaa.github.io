@@ -3,6 +3,9 @@
     <nuxt-link to="/" exact active-class="active" class="link">
       Home
     </nuxt-link>
+    <nuxt-link to="/about" active-class="active" class="link">
+      About
+    </nuxt-link>
     <nuxt-link to="/projects" active-class="active" class="link">
       Projects
     </nuxt-link>
@@ -11,6 +14,12 @@
     </nuxt-link>
     <nuxt-link to="/articles" active-class="active" class="link">
       Articles
+    </nuxt-link>
+    <nuxt-link to="/shortcuts" active-class="active" class="link">
+      Shortcuts
+    </nuxt-link>
+    <nuxt-link to="/uses" active-class="active" class="link">
+      Uses
     </nuxt-link>
   </div>
 </template>
