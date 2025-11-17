@@ -12,7 +12,7 @@
           <h1 class="py-4 text-7xl font-extrabold">
             <Emphasize>Maxtansy</Emphasize> here!
           </h1>
-          <p>A passionate UI/UX Designer skilled in graphic design, user interface, and illustration. With a focus on human-centered design, I create engaging experiences by understanding user needs and translating insights into seamless designs.<b> Let’s build stuff together! 🚀</b></p>
+          <p>A passionate UI/UX Designer skilled in graphic design, user interface, and illustration. With a focus on human-centered design, <br>I create engaging experiences by understanding user needs and translating insights into seamless designs.</br><br> Let’s build stuff together! 🚀</br></p>
         </div>
       </div>
     </Hero>
