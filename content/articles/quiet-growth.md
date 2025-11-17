@@ -2,7 +2,7 @@
 title: "Quiet Growth: Learning to Trust the Process"
 description: "Behind every milestone, there are countless unseen nights of doubt, experimentation, and persistence. This is a reflection on learning to trust the slow, quiet moments that shape who we become."
 slug: "quiet-growth"
-date: "2025-09-17"
+date: "2025-11-17"
 readTime: "4 min read"
 ---
 

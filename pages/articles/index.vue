@@ -56,7 +56,7 @@ export default {
           title: 'Quiet Growth: Learning to Trust the Process',
           excerpt:
             'Behind every milestone, there are countless unseen nights of doubt, experimentation, and persistence.',
-          date: 'September 2025',
+          date: 'November 2025',
           readTime: '4 min read'
         },
         {
