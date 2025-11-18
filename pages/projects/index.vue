@@ -9,7 +9,7 @@
           <h1 class="py-4 text-7xl font-extrabold">
             Projects
           </h1>
-          <p>Every problems has their own stories behind it ✨. As a UI/UX Designer I always try to solve these problems using what I'm good at, technology. Here you can find the stories of how I try to solve the problems that I've encountered.</p>
+          <p>Every problems has their own stories behind it ✨ <br>As a UI/UX Designer I always try to solve these problems using what I'm good at, technology, <br>Here you can find the stories of how I try to solve the problems that I've encountered.</p>
         </div>
       </div>
     </Hero>
