@@ -12,7 +12,7 @@
           <div class="social-media">
             <a rel="noopener" href="https://www.linkedin.com/in/wildanhafidz/" target="_blank"><client-only><unicon name="linkedin" /></client-only></a>
             <a rel="noopener" href="https://instagram.com/maxtansy" target="_blank"><client-only><unicon name="instagram" /></client-only></a>
-            <a rel="noopener" href="https://twitter.com/syyhtee" target="_blank"><client-only><unicon name="twitter" /></client-only></a>
+            <a rel="noopener" href="https://twitter.com/maxtansy" target="_blank"><client-only><unicon name="twitter" /></client-only></a>
             <a rel="noopener" href="https://github.com/nikoshaa" target="_blank"><client-only><unicon name="github" /></client-only></a>
           </div>
           <div>Copyright &copy; 2026 Wildan Hafidz</div>
