@@ -1,6 +1,6 @@
 ## Personal Portfolio Website
 
-![Portfolio Preview](/assets/ss.png)
+![Portfolio Preview](/img/ss.png)
 
 A personal portfolio website built with Nuxt.js.
 
